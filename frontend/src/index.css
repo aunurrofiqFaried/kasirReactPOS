@@ -6,14 +6,14 @@ body {
 }
 
 .navbar {
-  background-color: #22668a;
+  background-color: #FFB26F;
 }
 .category-aktif {
-  background-color: #22668a;
+  background-color: #FFB26F;
   color: white;
 }
 .btn-primary {
-  background-color: #22668a;
+  background-color: #37AFE1;
 }
 
 @media only screen and (max-height: 1000px){
